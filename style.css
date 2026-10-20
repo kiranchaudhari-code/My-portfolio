@@ -1073,7 +1073,7 @@ button, a {
       rgba(0, 0, 0, 0.1),
       rgba(0, 0, 0, 0.2)
     ),
-    url("./images/anime-avtar.jpg") center 35% / cover no-repeat;
+    url("./anime-avtar.jpg") center 35% / cover no-repeat;
 }
 
 .anime-art::before,
