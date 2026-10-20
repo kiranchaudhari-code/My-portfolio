@@ -1059,7 +1059,7 @@ button, a {
 .anime-art {
   background:
     linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.2)),
-    url("./images/anime-avatar.jpg") center 35% / cover no-repeat;
+    url("./anime-avatar.jpg") center 35% / cover no-repeat;
 }
 
 .anime-art::before,
